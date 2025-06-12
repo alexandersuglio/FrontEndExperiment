@@ -1,6 +1,6 @@
 # 🖥️ FrontEndExperiment
 
-This is the **React frontend** of a full-stack application that manages dog records (CRUD). It communicates with an Express.js API hosted on Render and stores data in Supabase.
+This is the **Vanilla HTML/JS** of a full-stack application that manages dog records (CRUD). It communicates with an Express.js API hosted on Render and stores data in Supabase.
 
 ---
 
